@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "name": "Aura Pro Gaming Laptop",
+    "price": 149990,
+    "description": "High-performance gaming with 16-inch 240Hz display and RTX 4070.",
+    "image": "https://m.media-amazon.com/images/I/71-D1xbd-WL._AC_SL1500_.jpg",
+    "rating": 4.8,
+    "reviews": 310,
+    "category": "🖥️ Computers & Accessories"
+  },
+  {
+    "id": 2,
+    "name": "ThinkPad Executive Laptop",
+    "price": 119990,
+    "description": "Ultra-thin business laptop with 32GB RAM and 1TB SSD for professionals.",
+    "image": "https://m.media-amazon.com/images/I/718ETwgrtFL._AC_SL1500_.jpg",
+    "rating": 4.9,
+    "reviews": 190,
+    "category": "🖥️ Computers & Accessories"
+  },
+  {
+    "id": 3,
+    "name": "Odyssey 4K Curved Monitor",
+    "price": 64999,
+    "description": "32-inch 4K UHD 144Hz curved monitor for immersive gaming and productivity.",
+    "image": "https://m.media-amazon.com/images/I/81gf+wgrcfL._AC_SL1500_.jpg",
+    "rating": 4.7,
+    "reviews": 452,
+    "category": "🖥️ Computers & Accessories"
+  },
+  {
+    "id": 4,
+    "name": "Apex Mechanical Keyboard",
+    "price": 8999,
+    "description": "Tenkeyless mechanical keyboard with RGB lighting and clicky blue switches.",
+    "image": "https://m.media-amazon.com/images/I/71pPmG-2a8L._AC_SL1500_.jpg",
+    "rating": 4.6,
+    "reviews": 1150,
+    "category": "🖥️ Computers & Accessories"
+  },
+  {
+    "id": 5,
+    "name": "ProGrip Ergonomic Mouse",
+    "price": 4499,
+    "description": "Wireless ergonomic mouse with 8 programmable buttons and 16K DPI sensor.",
+    "image": "https://m.media-amazon.com/images/I/61l+1InN3+L._AC_SL1500_.jpg",
+    "rating": 4.5,
+    "reviews": 788,
+    "category": "🖥️ Computers & Accessories"
+  },
+  {
+    "id": 6,
+    "name": "T7 External SSD 2TB",
+    "price": 12999,
+    "description": "Blazing-fast portable 2TB SSD with USB-C. Read speeds up to 1,050 MB/s.",
+    "image": "https://m.media-amazon.com/images/I/81o-Y0iO-ML._AC_SL1500_.jpg",
+    "rating": 4.9,
+    "reviews": 2300,
+    "category": "🖥️ Computers & Accessories"
+  },
+  {
+    "id": 7,
+    "name": "PixelCore Pro Smartphone",
+    "price": 89990,
+    "description": "The latest flagship smartphone with a 200MP camera and 144Hz display.",
+    "image": "https://m.media-amazon.com/images/I/71T5NVOgbpL._AC_SL1500_.jpg",
+    "rating": 4.8,
+    "reviews": 512,
+    "category": "📱 Mobile Phones & Accessories"
+  },
+  {
+    "id": 8,
+    "name": "AuraBuds Pro 3",
+    "price": 18999,
+    "description": "True wireless earbuds with adaptive noise cancellation and spatial audio.",
+    "image": "https://m.media-amazon.com/images/I/51-2+5-aJUL._AC_SL1500_.jpg",
+    "rating": 4.7,
+    "reviews": 3402,
+    "category": "📱 Mobile Phones & Accessories"
+  },
+  {
+    "id": 9,
+    "name": "Chrono Smartwatch 6",
+    "price": 24990,
+    "description": "Advanced health tracking (ECG, SpO2) and 3-day battery life. Waterproof.",
+    "image": "https://m.media-amazon.com/images/I/71JU-bUt-3L._AC_SL1500_.jpg",
+    "rating": 4.6,
+    "reviews": 1209,
+    "category": "📱 Mobile Phones & Accessories"
+  },
+  {
+    "id": 10,
+    "name": "ChargeMax Power Bank 20K",
+    "price": 2999,
+    "description": "20,000mAh high-speed power bank with 3 ports (2 USB-C, 1 USB-A).",
+    "image": "https://m.media-amazon.com/images/I/61-tBg7-FCL._AC_SL1500_.jpg",
+    "rating": 4.9,
+    "reviews": 5688,
+    "category": "📱 Mobile Phones & Accessories"
+  },
+  {
+    "id": 11,
+    "name": "Roam Portable Bluetooth Speaker",
+    "price": 8999,
+    "description": "Waterproof and drop-resistant portable speaker with 10-hour battery.",
+    "image": "https://m.media-amazon.com/images/I/71HCHp+c06L._AC_SL1500_.jpg",
+    "rating": 4.7,
+    "reviews": 2100,
+    "category": "🎧 Audio & Entertainment"
+  },
+  {
+    "id": 12,
+    "name": "CinemaBar 5.1 Soundbar",
+    "price": 34990,
+    "description": "5.1-channel soundbar with wireless subwoofer and Dolby Atmos.",
+    "image": "https://m.media-amazon.com/images/I/714gU6N3nNL._AC_SL1500_.jpg",
+    "rating": 4.6,
+    "reviews": 890,
+    "category": "🎧 Audio & Entertainment"
+  },
+  {
+    "id": 13,
+    "name": "AudioMax Pro Headphones",
+    "price": 29990,
+    "description": "Studio-quality wireless headphones with industry-leading noise cancellation.",
+    "image": "https://m.media-amazon.com/images/I/81x8w5-3-0L._AC_SL1500_.jpg",
+    "rating": 4.8,
+    "reviews": 4310,
+    "category": "🎧 Audio & Entertainment"
+  },
+  {
+    "id": 14,
+    "name": "Podcaster Pro USB Microphone",
+    "price": 7999,
+    "description": "Studio-quality USB microphone for podcasting, streaming, and recording.",
+    "image": "https://m.media-amazon.com/images/I/51+nEeyF3sL._AC_SL1200_.jpg",
+    "rating": 4.7,
+    "reviews": 1923,
+    "category": "🎧 Audio & Entertainment"
+  },
+  {
+    "id": 15,
+    "name": "Lumina 8K QLED Smart TV",
+    "price": 249990,
+    "description": "75-inch 8K QLED Smart TV with AI upscaling and quantum dot technology.",
+    "image": "https://m.media-amazon.com/images/I/91S-i9-R3ML._AC_SL1500_.jpg",
+    "rating": 4.9,
+    "reviews": 120,
+    "category": "📺 TV & Home Appliances"
+  },
+  {
+    "id": 16,
+    "name": "FireStick 4K Max Streamer",
+    "price": 4499,
+    "description": "Streaming device with Wi-Fi 6, 4K UHD, Dolby Vision, and Alexa Voice Remote.",
+    "image": "https://m.media-amazon.com/images/I/51F13-3J6jL._AC_SL1000_.jpg",
+    "rating": 4.7,
+    "reviews": 8904,
+    "category": "📺 TV & Home Appliances"
+  },
+  {
+    "id": 17,
+    "name": "Vortex Air Fryer XL",
+    "price": 8999,
+    "description": "8-quart large capacity air fryer with 12-in-1 cooking functions.",
+    "image": "https://m.media-amazon.com/images/I/61r-wbnSJSL._AC_SL1500_.jpg",
+    "rating": 4.8,
+    "reviews": 7652,
+    "category": "📺 TV & Home Appliances"
+  },
+  {
+    "id": 18,
+    "name": "RoboVac S10 Cleaner",
+    "price": 39990,
+    "description": "Robotic vacuum cleaner with LiDAR mapping and 3000Pa suction power.",
+    "image": "https://m.media-amazon.com/images/I/718-c2j-pIL._AC_SL1500_.jpg",
+    "rating": 4.6,
+    "reviews": 980,
+    "category": "📺 TV & Home Appliances"
+  },
+  {
+    "id": 19,
+    "name": "EchoView Smart Speaker",
+    "price": 7999,
+    "description": "Smart speaker with Alexa and a vibrant display for music and smart home control.",
+    "image": "https://m.media-amazon.com/images/I/61+GZ-L-sQL._AC_SL1000_.jpg",
+    "rating": 4.7,
+    "reviews": 11020,
+    "category": "🔋 Smart Home & IoT"
+  },
+  {
+    "id": 20,
+    "name": "Aura Smart Bulb Starter Kit",
+    "price": 3499,
+    "description": "4-pack of color-changing E26 smart bulbs. Works with Alexa & Google Home.",
+    "image": "https://m.media-amazon.com/images/I/61L-2yFMvYL._AC_SL1500_.jpg",
+    "rating": 4.5,
+    "reviews": 3412,
+    "category": "🔋 Smart Home & IoT"
+  },
+  {
+    "id": 21,
+    "name": "SafeView Video Doorbell",
+    "price": 12990,
+    "description": "Wireless video doorbell with 2K resolution, motion detection, and 2-way audio.",
+    "image": "https://m.media-amazon.com/images/I/41-i2mv-GUL._AC_SL1000_.jpg",
+    "rating": 4.4,
+    "reviews": 2109,
+    "category": "🔋 Smart Home & IoT"
+  },
+  {
+    "id": 22,
+    "name": "PlaySystem 5 Console",
+    "price": 49990,
+    "description": "Next-generation gaming console with ultra-fast SSD and 8K 120Hz support.",
+    "image": "https://m.media-amazon.com/images/I/51eOztNdCkL._AC_SL1500_.jpg",
+    "rating": 4.9,
+    "reviews": 15029,
+    "category": "🕹️ Gaming & Consoles"
+  },
+  {
+    "id": 23,
+    "name": "Oasis VR Headset",
+    "price": 34990,
+    "description": "All-in-one VR headset with 5K display and inside-out tracking.",
+    "image": "https://m.media-amazon.com/images/I/71x1Q+cQfXL._AC_SL1500_.jpg",
+    "rating": 4.6,
+    "reviews": 2344,
+    "category": "🕹️ Gaming & Consoles"
+  },
+  {
+    "id": 24,
+    "name": "Dominator Gaming Chair",
+    "price": 22990,
+    "description": "Ergonomic racing-style gaming chair with 4D armrests and lumbar support.",
+    "image": "https://m.media-amazon.com/images/I/61t4G-x93vL._AC_SL1500_.jpg",
+    "rating": 4.5,
+    "reviews": 1123,
+    "category": "🕹️ Gaming & Consoles"
+  },
+  {
+    "id": 25,
+    "name": "StreamLink WiFi 6E Router",
+    "price": 19999,
+    "description": "Tri-band WiFi 6E router for blazing-fast speeds and low latency gaming.",
+    "image": "https://m.media-amazon.com/images/I/611sL-2ySCL._AC_SL1500_.jpg",
+    "rating": 4.8,
+    "reviews": 887,
+    "category": "🔌 Cables & Components"
+  },
+  {
+    "id": 26,
+    "name": "RTX 4080 Super GPU",
+    "price": 110990,
+    "description": "NVIDIA GeForce RTX 4080 Super 16GB. The ultimate graphics card.",
+    "image": "https://m.media-amazon.com/images/I/811umCBWkYL._AC_SL1500_.jpg",
+    "rating": 4.9,
+    "reviews": 432,
+    "category": "🔌 Cables & Components"
+  },
+  {
+    "id": 27,
+    "name": "Alpha A7 IV Mirrorless Camera",
+    "price": 229990,
+    "description": "Full-frame mirrorless camera with 33MP sensor and 4K 60p video.",
+    "image": "https://m.media-amazon.com/images/I/81ooynBtTCL._AC_SL1500_.jpg",
+    "rating": 4.9,
+    "reviews": 312,
+    "category": "📸 Cameras & Accessories"
+  },
+  {
+    "id": 28,
+    "name": "Hero 12 Action Camera",
+    "price": 39990,
+    "description": "Waterproof 5.3K60 action camera with HyperSmooth 6.0 stabilization.",
+    "image": "https://m.media-amazon.com/images/I/61v-d-W5-iL._AC_SL1500_.jpg",
+    "rating": 4.7,
+    "reviews": 975,
+    "category": "📸 Cameras & Accessories"
+  },
+  {
+    "id": 29,
+    "name": "Aero 4 Pro Drone",
+    "price": 119990,
+    "description": "4K camera drone with 3-axis gimbal, 30-min flight time, and obstacle avoidance.",
+    "image": "https://m.media-amazon.com/images/I/61eQY3sD2pL._AC_SL1500_.jpg",
+    "rating": 4.8,
+    "reviews": 655,
+    "category": "📸 Cameras & Accessories"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": 4,
+    "name": "Apex Mechanical Keyboard",
+    "price": 8999,
+    "description": "Tenkeyless mechanical keyboard with RGB lighting and clicky blue switches.",
+    "image": "https://m.media-amazon.com/images/I/71pPmG-2a8L._AC_SL1500_.jpg",
+    "rating": 4.6,
+    "reviews": 1150,
+    "category": "🖥️ Computers & Accessories",
+    "quantity": 1
+  }
+]
